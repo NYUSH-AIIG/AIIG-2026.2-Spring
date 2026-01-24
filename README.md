@@ -6,5 +6,5 @@ Subscribe to our [AI Interest Group Events Google Calendar](https://calendar.goo
 **Incoming**
 |Date|Time|Type|Topic|Speakers|Place|
 |:--|:--|:--|:--|:--|:--|
-|2.10|1pm-1.50pm|Seminar|VLM|Yuhan(Tina) Liu|TBD|
+|2.10|1pm-1.50pm|Seminar|Spec Decoding|Yuhan(Tina) Liu|TBD|
 
