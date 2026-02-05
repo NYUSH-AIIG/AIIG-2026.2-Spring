@@ -11,4 +11,5 @@ Subscribe to our [AI Interest Group Events Google Calendar](https://calendar.goo
 |TBD|TBD|Seminar|TBD|Zifan Zhao|TBD|
 |TBD|TBD|Seminar|TBD|[Mingzhi Chen (SUSTech)](https://mingzhic.com/)|TBD|
 |TBD|TBD|Seminar|TBD|[Tianze Luo (THU)](https://github.com/luotianze666)|TBD|
+|TBD|TBD|Seminar|TBD|[Zihan Zheng (NYU, OpenAI)](https://www.linkedin.com/in/zihan-zheng-233824247/)|TBD|
 <!--|TBD|TBD|Seminar|TBD|<name>|TBD|-->
