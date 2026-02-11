@@ -6,10 +6,11 @@ Subscribe to our [AI Interest Group Events Google Calendar](https://calendar.goo
 **Incoming**
 |Date|Time|Type|Topic|Speakers|Place|
 |:--|:--|:--|:--|:--|:--|
-|2.10|1pm-1.50pm|Seminar|Speculative Decoding|Yuhan(Tina) Liu|TBD|
+|2.10|1-2pm|Seminar|Speculative Decoding|Yuhan(Tina) Liu|S725|
+|2.26|10-11am|Seminar|TBD|Linxi(Cissy) Xie|TBD|
 |TBD|TBD|Seminar|TBD|Deming Xu|TBD|
 |TBD|TBD|Seminar|TBD|Zifan Zhao|TBD|
 |TBD|TBD|Seminar|TBD|[Mingzhi Chen (SUSTech)](https://mingzhic.com/)|TBD|
 |TBD|TBD|Seminar|TBD|[Tianze Luo (THU)](https://github.com/luotianze666)|TBD|
-|TBD|TBD|Seminar|TBD|[Zihan Zheng (NYU, OpenAI)](https://www.linkedin.com/in/zihan-zheng-233824247/)|TBD|
+|TBD|TBD|Seminar|TBD|[Junlin Yang(THU)](https://yangjl2003.github.io/)|TBD|
 <!--|TBD|TBD|Seminar|TBD|<name>|TBD|-->
